@@ -1,4 +1,5 @@
-﻿# Get Services
+﻿# Better in ISE?
+# Get Services
 $NewServiceCollection = @() 
 $Services = Get-Service
 foreach($Service in $Services){
